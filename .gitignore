@@ -1,0 +1,24 @@
+.DS_Store
+DerivedData/
+*.xcuserstate
+xcuserdata/
+
+# Public repo hygiene
+.env
+.env.*
+!.env.example
+!.env.sample
+node_modules/
+.venv/
+dist/
+build/
+.vercel/
+key.properties
+*.jks
+*.keystore
+*.sqlite
+*.db
+*.pkl
+*.pickle
+*.parquet
+*.zip

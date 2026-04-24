@@ -1,0 +1,23 @@
+{
+  "images": [
+    {
+      "filename": "piece_chessnut_bB.png",
+      "idiom": "universal",
+      "scale": "1x"
+    },
+    {
+      "filename": "piece_chessnut_bB@2x.png",
+      "idiom": "universal",
+      "scale": "2x"
+    },
+    {
+      "filename": "piece_chessnut_bB@3x.png",
+      "idiom": "universal",
+      "scale": "3x"
+    }
+  ],
+  "info": {
+    "author": "xcode",
+    "version": 1
+  }
+}
