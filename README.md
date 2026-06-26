@@ -1,5 +1,7 @@
 # CCT Chess
 
+[Get CCT Chess on the App Store](https://apps.apple.com/au/app/id6779518928)
+
 CCT Chess is an iOS tactics trainer for the scan pattern I wanted to practice: checks, captures, then threats.
 
 The app loads offline chess positions, asks the player to find candidate moves by category, tracks misses, and adapts the target difficulty with a local rating model.
