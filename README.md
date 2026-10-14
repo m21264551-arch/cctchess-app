@@ -47,4 +47,4 @@ Bundled puzzle positions are derived from Lichess database exports. The transfor
 
 ## Notes
 
-This is a native app project, not a web chess engine. The main technical work is move generation, category analysis, local training state, and an iOS interface that keeps the scan routine quick.
+Move generation, category analysis, ratings, and training history all run on the device.

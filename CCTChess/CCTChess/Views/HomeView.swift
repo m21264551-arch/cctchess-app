@@ -87,7 +87,7 @@ struct HomeView: View {
                     Text("CCT Chess")
                         .font(.system(.largeTitle, design: .rounded, weight: .bold))
                         .foregroundStyle(.white)
-                    Text("Build the habit strong players use: scan checks, captures, then threats before you move.")
+                    Text("Practise finding checks, captures, and threats before you move.")
                         .font(.callout)
                         .foregroundStyle(.white.opacity(0.82))
                         .fixedSize(horizontal: false, vertical: true)
@@ -210,7 +210,7 @@ struct HomeView: View {
                     Text("The scan")
                         .font(.headline)
                         .foregroundStyle(AppTheme.ink)
-                    Text("Each puzzle walks one decision habit in order.")
+                    Text("Find checks first, then captures, then threats.")
                         .font(.caption)
                         .foregroundStyle(AppTheme.mutedInk)
                 }

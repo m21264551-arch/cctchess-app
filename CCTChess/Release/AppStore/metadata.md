@@ -24,17 +24,17 @@ Copyright: Copyright (c) 2026 Michael Y.
 
 ## Promotional Text
 
-Build a sharper tactical scan by finding checks, captures, and threats one category at a time.
+Practise finding checks, captures, and threats one category at a time.
 
 ## Description
 
-CCT Chess trains the habit behind tactical vision: before calculating, scan for Checks, Captures, and Threats.
+CCT Chess is a chess tactics trainer. Find checks, captures, and threats in each position.
 
-Each puzzle breaks the board into three focused passes. Find every check, then every capture, then every threat. The app tracks what you found, records what you missed, and helps you build a cleaner board scan over time.
+Find every check, then every capture, then every threat. Review missed moves after each puzzle. A local rating adjusts the difficulty.
 
 Features:
 
-- Focused CCT puzzle flow for deliberate tactical training
+- Puzzles organised by checks, captures, and threats
 - Separate progress for checks, captures, and threats
 - Local rating that adapts puzzle difficulty as you improve
 - Missed-move review after each puzzle
@@ -42,7 +42,7 @@ Features:
 - Offline play with a bundled puzzle database
 - No accounts, ads, analytics, or tracking
 
-CCT Chess is for players who want a simple daily training tool for seeing tactical candidates faster and more reliably.
+Practise offline and review your progress on your device.
 
 ## Keywords
 
